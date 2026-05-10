@@ -4,7 +4,7 @@
 
 ## Link video prezentare proiect
 
-[YouTube - Prezentare Bug Tracker](https://youtube.com/TODO)
+[Prezentare Bug Tracker](https://drive.google.com/file/d/1kIIbixpp-493O3uY4qn_KbcCQgUWhHby/view?usp=sharing)
 
 ## Link publicare
 
@@ -147,13 +147,12 @@ Toate cheile sensibile sunt stocate în variabile de mediu (`.env.local`) și nu
 
 ## 5. Capturi ecran aplicație
 
-<!-- Adăugați capturi de ecran ale aplicației aici -->
-<!-- Exemplu: -->
-<!-- ![Dashboard](./screenshots/dashboard.png) -->
-<!-- ![Create Bug](./screenshots/create-bug.png) -->
-<!-- ![Filters](./screenshots/filters.png) -->
+![Email notification](./screenshot/Email.png)
+![Bug tracker main menu](./screenshot/MainMenu.png)
+![Report bug modal](./screenshot/ReportBug.png)
+![Delete confirmation](./screenshot/Delete.png)
 
-*Capturile de ecran vor fi adăugate după deploy.*
+*Capturile de ecran sunt disponibile în folderul `screenshot/`.*
 
 ## 6. Referințe
 
