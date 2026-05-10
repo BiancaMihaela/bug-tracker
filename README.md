@@ -8,7 +8,7 @@
 
 ## Link publicare
 
-[Bug Tracker - Vercel](https://bug-tracker-TODO.vercel.app)
+[Bug Tracker - Vercel](https://bug-tracker-3ht6yjp10-biancamihaelas-projects.vercel.app/)
 
 ---
 
