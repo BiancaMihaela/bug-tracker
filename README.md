@@ -147,11 +147,10 @@ Toate cheile sensibile sunt stocate în variabile de mediu (`.env.local`) și nu
 
 ## 5. Capturi ecran aplicație
 
-![Email notification](./screenshot/Email.png)
 ![Bug tracker main menu](./screenshot/MainMenu.png)
 ![Report bug modal](./screenshot/ReportBug.png)
 ![Delete confirmation](./screenshot/Delete.png)
-
+![Email notification](./screenshot/Email.png)
 *Capturile de ecran sunt disponibile în folderul `screenshot/`.*
 
 ## 6. Referințe
